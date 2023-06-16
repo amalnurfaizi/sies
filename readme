@@ -1,0 +1,23 @@
+===> SISTEM INFORMASI EKSTRAKURIKULER<===
+
+Req : 
+  - PHP Version 8 >
+  - Xampp Server 3306
+  - Aktifkan Library gd di FILE (php.ini) 
+
+NOTE:
+
+- LOGIN SEBAGAI ADMIN
+  nama pengguna : 'admin'
+  password : 'admin123'
+
+- NAMA DATABASE : 'db_sies'
+  'Konfigurasi FILE initialize.php'
+
+
+-- Cek Versi PHP
+  <?php
+phpinfo();
+?>
+
+
